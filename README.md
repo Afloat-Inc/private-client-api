@@ -1,4 +1,4 @@
-**Hashed Private Client API**
+** Private Client API**
 
 Enables the usage of the Hashed Private backend services by client applications.
 
